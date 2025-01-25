@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import AlphaCounter from './Counter/AlphaCounter';
+// import AlphaCounter from './Counter/AlphaCounter';
+import UseEffect1 from './UseEffect/UseEffect1';
 // import Hooks from './Hooks/Hooks';
 // import Hooks3 from './Hooks/Hooks3';
 // import Counter from './Counter/Counter';
@@ -14,7 +15,7 @@ import AlphaCounter from './Counter/AlphaCounter';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
+  <>
     {/* <App num="12" />
     <Factorial num="10"/>
     <Alphabet letter="B"/>
@@ -23,8 +24,10 @@ root.render(
   {/* <Hooks/> */}
   {/* <Hooks3/> */}
   {/* <Counter/> */}
-  <AlphaCounter/>
-  </React.StrictMode>
+  {/* <AlphaCounter/> */}
+  <UseEffect1/>
+  </>
+  
 );
 
 // If you want to start measuring performance in your app, pass a function
