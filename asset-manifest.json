@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sagarraj2001/Reactjs.git/static/css/main.f03098b2.css",
+    "main.js": "/Sagarraj2001/Reactjs.git/static/js/main.1f5db0b4.js",
+    "index.html": "/Sagarraj2001/Reactjs.git/index.html",
+    "main.f03098b2.css.map": "/Sagarraj2001/Reactjs.git/static/css/main.f03098b2.css.map",
+    "main.1f5db0b4.js.map": "/Sagarraj2001/Reactjs.git/static/js/main.1f5db0b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f03098b2.css",
+    "static/js/main.1f5db0b4.js"
+  ]
+}
